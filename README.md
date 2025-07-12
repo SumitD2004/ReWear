@@ -7,6 +7,9 @@ discarding them.
 
 Email Id - sumitdhamsaniya14@gmail.com , sonivaibhav037@gmail.com , vanshikashah2304@gmail.com
 
+
+Vaibhav did frontend and pushed the code in main branch whereas (me)Sumit did backend and pushed into master branch and finally Vanshika helped in doing both backend and frontend.
+
 =======
 # Getting Started with Create React App
 
